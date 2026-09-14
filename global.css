@@ -3,8 +3,16 @@ body{
     background-color: white;
 }
 
-nav{
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.center-wrapper, .right-wrapper, .links-containter, .download-wrapper{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    text-align: center;
 }
