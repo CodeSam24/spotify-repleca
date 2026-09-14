@@ -1,0 +1,10 @@
+body{
+    /* background-color: #121212 */
+    background-color: white;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
