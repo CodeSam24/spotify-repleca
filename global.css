@@ -16,3 +16,8 @@ nav {
     justify-content: space-around;
     text-align: center;
 }
+
+.icon {
+    width: 20px;
+    height: 20px;
+}
